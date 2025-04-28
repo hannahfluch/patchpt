@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 JZ_OFFSET=0x368dacc
 PT_FILE=$1
